@@ -15,3 +15,8 @@
 ```
 CoreLocation
 ```
+
+#### TODO
+- [ ] Add check for no data condition
+- [ ] Handle service failure
+- [ ] Handle location failure/permission cases
